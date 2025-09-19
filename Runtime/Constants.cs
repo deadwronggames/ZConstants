@@ -6,8 +6,11 @@ namespace DeadWrongGames.ZConstants
         public const string ROOT_FOLDER_NAME = "Assets";
         public const string PROJECT_FOLDER_NAME = "_Project";
         public const string SERVICES_FOLDER_NAME = "Services";
-        public const string SERVICES_ASSETS_FOLDER_NAME = "Assets";
+        public const string SERVICES_ASSETS_FOLDER_NAME = "_Assets";
         public const string SERVICES_EVENT_CHANNEL_SO_FOLDER_NAME = "EventChannelSO";
         public const string SERVICES_SOUND_DATA_SO_FOLDER_NAME = "SoundDataSO";
+        
+        // Paths
+        public const string PERSISTENT_GO_PATH = "Packages/ZServices/Runtime/_Assets/PF_PersistentGO.prefab";
     }
 }
