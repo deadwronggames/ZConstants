@@ -1,0 +1,11 @@
+{
+    "name": "com.deadwronggames.zconstants",
+    "version": "1.0.0",
+    "displayName": "ZConstants",
+    "description": "Helps other ZPackages to use consistent paths and values.",
+    "unity": "6.0",
+    "author": {
+        "name": "DeadWrong Games",
+        "url": "hhtps://x.com/DeadWrong_Games"
+    }
+}
